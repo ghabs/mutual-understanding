@@ -4,6 +4,6 @@ title: About
 permalink: /about
 ---
 
-*This is an about page.*
+*Seeking mutual understanding with mutuals one conversation at a time*
 
-Feel free to tell the world about what you love! 😍
+A project from [Divia Eden](https://twitter.com/diviacaroline) and [Ben Goldhaber](https://twitter.com/BenGoldhaber)
